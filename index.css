@@ -1,0 +1,17 @@
+
+#root{
+    color:blueviolet;
+}
+#parent{
+    color:blue;
+}
+
+#child1{
+    color:brown;
+}
+#child2{
+    color:rgb(230, 113, 59);
+}
+#p{
+    color:rgb(6, 79, 62);
+}
