@@ -7,7 +7,7 @@ const parent=React.createElement("div",{id:"parent"},
     React.createElement("div",{id:"child2"},
   [  React.createElement("h1",{},"h1 tag "),
      React.createElement("h2",{},"h2 tag "),
-    React.createElement("p",{id:"p"},"this is paragraph ") ]),
+    React.createElement("p",{id:"p"},"this is paragraph 2gi") ]),
    ]
      );
 
