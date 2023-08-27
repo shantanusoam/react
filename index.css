@@ -12,6 +12,15 @@
 #child2{
     color:rgb(230, 113, 59);
 }
+#heading{
+    margin-left: 10px;
+}
 #p{
     color:rgb(6, 79, 62);
+    margin-left: 15px;
 }
+div {
+    border: 1px solid black;
+    width: 500px;
+    
+  }
